@@ -2,4 +2,8 @@ Rincian materi FS WEB -MSIB BATCH 5
 1. Desain grafis
 2. CSS
 3. GIT/GITHUB
-
+4. MySQL
+5. ci
+6. Laravel
+7. REST API
+8. mobile
